@@ -32,7 +32,7 @@ Includes comments explaining the purpose of each major section.,
 Perform your reasoning steps internally or wrap them in comments, and ensure the final output provides the complete, valid Python source code.
 """
 
-AES‑256‑GCM authenticated encryption example.
+# AES‑256‑GCM authenticated encryption example.
 
 Design rationale (embedded as comments for clarity):
 ---------------------------------------------------
